@@ -1,0 +1,68 @@
+h2
+{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 40px 100px;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size:40px;
+  color:orangered;
+  object-position: center
+}
+
+img
+ {
+background-position:center ;
+backdrop-filter: img
+  top: 0;
+  left: 10px;
+  width: 300px;
+  height: 400px ;
+  padding: 40px 100px;
+  z-index: 1000;
+  justify-content: space-between;
+  align-items: ::backdrop;
+  position::backdrop;
+  object-position: center
+  
+} 
+
+
+h1
+{
+font-style: italic;
+font-family: cursive;
+font-size:15px;
+text-align: center;
+text-decoration-style: double;
+object-position: center 
+}
+p1
+{
+  #container
+  {
+border: n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+  }
+font-style: italic;
+font-family: cursive;
+font-size:15px;
+text-align: left;
+color: red;
+background-color: whitesmoke;
+
+}
+
+p2
+{
+font-style: italic;
+font-family: cursive;
+font-size:15px;
+text-align: center;
+color: black;
+background-color:rgba(128, 128, 128, 0.027);
+
+}
